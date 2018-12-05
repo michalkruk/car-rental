@@ -9,7 +9,7 @@ AS
 );
 GO
 
-CREATE FUNCTION ZarobkiRocznazPremiaa
+CREATE FUNCTION ZarobkiRocznaZPremia
 (
     @pensja INTEGER,
 	@premia INTEGER
